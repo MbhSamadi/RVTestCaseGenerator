@@ -1,0 +1,10 @@
+{
+  "rebec_count": 7,
+  "max_msgservers_count": 5,
+  "max_msgservers_seq": 5,
+  "property_length": 2,
+  "non_causality_count": 0,
+  "causality_count":3,
+  "backwards_count": 0,
+  "maximum_method_calls" :2
+}
